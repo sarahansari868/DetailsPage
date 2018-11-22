@@ -1,0 +1,95 @@
+{
+  "elements": [
+    {
+      "reference": "urn:li:share:62964770199161113131",
+      "reference~": {
+        "owner": "urn:li:person:A7H9RiuFEK",
+        "activity": "urn:li:activity:62964770198741688323",
+        "edited": false,
+        "created": {
+          "actor": "urn:li:person:A7H9RiuFEK",
+          "time": 1501197104000
+        },
+        "id": "6296477019916111872",
+        "lastModified": {
+          "actor": "urn:li:person:A7H9RiuFEK",
+          "time": 1501197104000
+        },
+        "text": {
+          "annotations": [
+            {
+              "start": 14,
+              "length": 11,
+              "entity": "urn:li:person:B45A7H9Riu"
+            }
+          ],
+          "text": "Great article Dwight!"
+        },
+        "distribution": {
+          "linkedInDistributionTarget": {
+            "visibleToGuest": true
+          }
+        },
+        "content": {
+          "contentEntities": [
+            {
+              "description": "I can remember watching 2001: A Space Odyssey, Aliens, and the Terminator being captivated by their provocative ideas and just-out-of-reach technology",
+              "entityLocation": "https://www.linkedin.com/pulse/stop-training-jedi-dark-side-tom-radwich",
+              "title": "Stop Training Jedi for the Dark Side",
+              "entity": "urn:li:article:8385856535341416181"
+            }
+          ],
+          "shareMediaCategory": "ARTICLE",
+          "description": "I can remember watching 2001: A Space Odyssey, Aliens, and the Terminator being captivated by their provocative ideas and just-out-of-reach technology",
+          "title": "Stop Training Jedi for the Dark Side"
+        }
+      }
+    },
+    {
+      "reference": "urn:li:share:62964438685105848323",
+      "reference~": {
+        "owner": "urn:li:person:uKOX2SiXO_",
+        "activity": "urn:li:activity:6296467508157390848",
+        "edited": false,
+        "created": {
+          "actor": "urn:li:person:uKOX2SiXO_",
+          "time": 1501194836000
+        },
+        "resharedShare": "urn:li:share:62964438685105848323",
+        "id": "6296467508169965568",
+        "lastModified": {
+          "actor": "urn:li:person:uKOX2SiXO_",
+          "time": 1501194836000
+        },
+        "originalShare": "urn:li:share:62964438685105848323",
+        "distribution": {
+          "linkedInDistributionTarget": {
+            "visibleToGuest": true
+          }
+        },
+        "content": {
+          "contentEntities": [
+            {
+              "description": "Following up on our list of the #LinkedInTopCompanies people want to work for, my colleague Maya Pope-Chappell wrote about the skills that hiring managers at these companies are looking for. This list is helpful, but it's also generic. Sure, tech companies are looking to hire people with Web Programming or Java Development skills, but can we get more specific than that?",
+              "entityLocation": "https://lnkd.in/gDmAebT",
+              "title": "The SPECIFIC Skills That Can Help you Land That Dream Job in 2017",
+              "thumbnails": [
+                {
+                  "imageSpecificContent": {
+                    "width": 2000,
+                    "height": 1319
+                  },
+                  "resolvedUrl": "https://media.licdn.com/media-proxy/ext?w=2000&h=1319&f=n&hash=N0UGQsRULCPktm3%2FlTJ08wxFodg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R66gRQekFEy8LyCqUH95VRUQJbPTHPhGXz0oYnCfiS2JNjaebKgo0JTOHBewVBnK_LoAmWnS8b7NonqeIkgj5HlOZHjZwRLPRlg0CRNtIM6dEEl58CkUr2nOShLiqEJOH7qYe-6MQRpRC8n-g"
+                }
+              ],
+              "entity": "urn:li:article:7250224946801247668"
+            }
+          ],
+          "shareMediaCategory": "ARTICLE",
+          "description": "Following up on our list of the #LinkedInTopCompanies people want to work for, my colleague Maya Pope-Chappell wrote about the skills that hiring managers at these companies are looking for. This list is helpful, but it's also generic. Sure, tech companies are looking to hire people with Web Programming or Java Development skills, but can we get more specific than that?",
+          "title": "The SPECIFIC Skills That Can Help you Land That Dream Job in 2017"
+        }
+      }
+    }
+  ]
+}
